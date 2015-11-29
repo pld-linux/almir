@@ -8,7 +8,7 @@ Source0:	https://github.com/iElectric/almir/archive/%{version}.tar.gz?/%{name}-%
 # Source0-md5:	7c272ef13c4565b463cddd56a2fe178e
 URL:		https://almir.readthedocs.org/
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	pythonegg(colander)
 Requires:	pythonegg(deform)
 Requires:	pythonegg(deform-bootstrap)
